@@ -1,0 +1,6 @@
+az group create --name photos_11901145_dev --location westus
+
+As an AWS Cloud Intern at Pratinik Infotech and a Developer Intern at Accenture, I made a difference: My disaster recovery solutions have led to a 35% decrease in security incidents. I built projects like home automation, an Android salon booking app, and a web vulnerability scanner. Skilled in Java, Python, AWS, and Docker, I am dedicated to delivering innovative, user-centered solutions that support organizational goals.
+
+
+As an AWS Cloud Intern at Pratinik Infotech and a Developer and Technology Intern at Accenture, I gained hands-on experience, designing solutions such as disaster recovery systems. With a focus on software development, cloud technologies, and IoT, I’ve built impressive projects, from scratch, from a dashboard-controlled home automation system to an Android salon booking app and a Java-based web vulnerability scanner. I'm an enthusiastic technologist with a knack for solving real-world problems and building things that matter—familiar with Java, Python, Dart, AWS, Docker, and Flutter. My passion for developing innovative user-centric solutions that contribute to organizational success drives my work as a fresher.
